@@ -139,7 +139,7 @@
         </Device>
       </DeviceCapability>
     </config-file>
-    <js-module src="src/windows/BluetoothLEPlugin.js" name="BluetoothLEPlugin">
+    <js-module src="src/windows/BluetoothLePlugin.js" name="BluetoothLePlugin">
       <merges target="" />
     </js-module>
   </platform>
